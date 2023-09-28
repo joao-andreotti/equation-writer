@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Eigen/Dense"
+#include <Eigen/Dense>
 
 #include "linear_system.hpp"
 #include "equation.hpp"
